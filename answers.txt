@@ -1,0 +1,6 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data Science is very helpful. We use data to try to solve problems and predict patterns.
+It can be applied into the entertainment industry, specifically the movie industry.
+For example, if we cannot find what movie we want to watch next. Data Scientists can look at your 
+watch history to get a better idea of your preferences to recommend you a movie that you will enjoy.
