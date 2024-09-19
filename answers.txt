@@ -1,4 +1,4 @@
-1: Why might be consider using git?
+Q1: Why might be consider using git?
 
 Answer: git is a good way to keep track of my changes of my projects.
 It is also great for making projects with friends. As well as a great
@@ -10,3 +10,8 @@ Answer: Data Science is very helpful. We use data to try to solve problems and p
 It can be applied into the entertainment industry, specifically the movie industry.
 For example, if we cannot find what movie we want to watch next. Data Scientists can look at your 
 watch history to get a better idea of your preferences to recommend you a movie that you will enjoy.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging saves all history of branches as you combine branches. Rebasing on the other hand,
+rewrites the history and moves a branch to the to another commit branch.
