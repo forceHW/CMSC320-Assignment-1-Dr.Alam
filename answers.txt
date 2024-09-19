@@ -1,0 +1,5 @@
+Q1: Why might be consider using git?
+
+Answer: git is a good way to keep track of my changes of my projects.
+It is also great for making projects with friends. As well as a great
+workflow that people can utilize.
